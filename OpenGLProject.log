@@ -1,0 +1,67 @@
+﻿  OpenGLProject.cpp
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(36,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(53,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(54,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(54,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(68,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(72,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(76,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(76,44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(77,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(77,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(77,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(78,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(79,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(81,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(81,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(82,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(82,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(83,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(84,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(86,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(86,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(87,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(88,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(89,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(91,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(91,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(92,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(92,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(92,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(93,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(94,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(96,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(96,44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(97,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(97,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(97,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(98,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(99,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(101,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(101,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(102,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(102,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(103,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(105,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(107,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(107,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(108,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(109,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(110,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(112,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(112,44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(113,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(113,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(114,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(115,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(119,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(119,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(126,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(127,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(128,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(129,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(130,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(131,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(132,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FADI\Downloads\OpenGLProject\OpenGLProject.cpp(133,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  OpenGLProject.vcxproj -> C:\Users\FADI\Downloads\OpenGLProject\x64\Debug\OpenGLProject.exe
