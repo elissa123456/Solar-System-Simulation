@@ -1,0 +1,1 @@
+Developed a 2D solar system simulation using OpenGL library in C++ and trigonometric functions, enabling real-time planet orbit animations with different speeds and distances from the sun, while implementing interactive controls for speed adjustment and pause/resume functionality.
